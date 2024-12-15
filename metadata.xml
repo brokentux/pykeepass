@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+	<maintainer type="project">
+		<email>python@gentoo.org</email>
+		<name>Python</name>
+	</maintainer>
+	<longdescription lang="en">
+	Python library to interact with keepass databases (supports KDBX3 and KDBX4)
+	</longdescription>
+	<stabilize-allarches/>
+	<upstream>
+		<remote-id type="pypi">pykeepass</remote-id>
+	</upstream>
+</pkgmetadata>
